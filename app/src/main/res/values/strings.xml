@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">801020745_Midterm</string>
+    <string name="genre">Genre</string>
+    <string name="filter">Filter</string>
+    <string name="image">Imag</string>
+    <string name="appName">App Name</string>
+    <string name="artistName">Artist Name</string>
+    <string name="releaseDate">Release Date</string>
+    <string name="title">Title</string>
+    <string name="copyright">Copyright</string>
+
+</resources>
